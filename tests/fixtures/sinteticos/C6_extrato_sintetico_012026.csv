@@ -1,0 +1,13 @@
+﻿EXTRATO DE CONTA CORRENTE C6 BANK
+
+Agência: 1 / Conta: 12345678
+Extrato gerado em 15/02/2026 - as 09:00:00
+
+Extrato de 01/01/2026 a 31/01/2026
+
+
+Data Lançamento,Data Contábil,Título,Descrição,Entrada(R$),Saída(R$),Saldo do Dia(R$)
+08/01/2026,08/01/2026,Compra no débito,POSTO ESTRELA DALVA,0.00,150.00,850.00
+14/01/2026,14/01/2026,Pix enviado para Bruno Quintela Moreira,TRANSF ENVIADA PIX,0.00,410.00,440.00
+16/01/2026,16/01/2026,Saldo do dia,Saldo do dia,0.00,0.00,440.00
+18/01/2026,18/01/2026,Pix recebido de LOJA DE ROUPAS AURORA,Devolução de compra,1250.75,0.00,1690.75

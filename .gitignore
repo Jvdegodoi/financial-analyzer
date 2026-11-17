@@ -1,0 +1,36 @@
+# .gitignore da vitrine. Não ignora nada que esteja versionado aqui: as
+# fixtures de tests/fixtures/sinteticos/ e os extratos de
+# demonstracao/extratos/ são CSV inventados e precisam entrar.
+
+# Ambiente virtual, caches e temporários do Python e do pytest
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+
+# Para quem usar o app com o próprio dado (src/ambiente.py): o arquivo que
+# aponta onde ele está, os arquivos locais e as pastas de dado, quando
+# ficam dentro desta pasta. A barra inicial prende cada pasta à raiz:
+# demonstracao/extratos/ e src/data/ continuam entrando.
+fa.local.ini
+*.local
+*.local.*
+/data/
+/extratos/
+/extratos-referencia/
+/gabarito/
+/medicoes/
+/export_transactions.csv
+
+# Streamlit, sistema e editores
+.streamlit/secrets.toml
+*.tmp
+*.bak
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

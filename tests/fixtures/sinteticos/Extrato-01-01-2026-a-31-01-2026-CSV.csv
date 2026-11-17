@@ -1,0 +1,10 @@
+ Extrato Conta Corrente 
+Conta ;87654321
+Período ;01/01/2026 a 31/01/2026
+Saldo ;1.204,10
+
+Data Lançamento;Histórico;Descrição;Valor;Saldo
+14/01/2026;Pix recebido;Ana Quintela Moreira;410,00;1.204,10
+19/01/2026;Pix enviado ;Acai Lua Cheia;-10,00;794,10
+19/01/2026;Pix enviado ;Acai Lua Cheia;-10,00;784,10
+21/01/2026;Compra no débito;Supermercado Boa Safra;-1.230,45;-446,35

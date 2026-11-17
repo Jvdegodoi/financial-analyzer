@@ -1,0 +1,52 @@
+ Extrato Conta Corrente 
+Conta ;87654321
+Período ;01/09/2025 a 15/12/2025
+Saldo ;9.322,39
+
+Data Lançamento;Histórico;Descrição;Valor;Saldo
+14/12/2025;Pagamento efetuado;Saneamento Do Vale;-149,06;9.322,39
+14/12/2025;Pagamento efetuado;Companhia De Energia Do Vale;-243,59;9.471,45
+12/12/2025;Pix enviado ;Bruno Quintela Moreira;-600,00;9.715,04
+10/12/2025;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;10.315,04
+07/12/2025;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;7.515,04
+07/12/2025;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;8.135,04
+06/12/2025;Pix recebido;Ana Quintela Moreira;1.300,00;10.035,04
+03/12/2025;Pix recebido;Norte Digital Ltda;500,00;8.735,04
+02/12/2025;Tarifa;Pacote De Servicos Mensal;-12,00;8.235,04
+28/11/2025;Pix recebido;Atelie Tres Marias Ltda;430,00;8.247,04
+28/11/2025;Crédito de rendimento;Rendimento Da Conta;48,48;7.817,04
+18/11/2025;Pix enviado ;Bruno Quintela Tecnologia Ltda;-1.500,00;7.768,56
+16/11/2025;Pagamento efetuado;Celular Linha Movel;-119,80;9.268,56
+16/11/2025;Pagamento efetuado;Internet Fibra Veloz;-119,90;9.388,36
+14/11/2025;Pagamento efetuado;Saneamento Do Vale;-121,15;9.508,26
+14/11/2025;Pagamento efetuado;Companhia De Energia Do Vale;-230,19;9.629,41
+12/11/2025;Pix enviado ;Bruno Quintela Moreira;-600,00;9.859,60
+10/11/2025;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;10.459,60
+07/11/2025;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;7.659,60
+07/11/2025;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;8.279,60
+06/11/2025;Pix recebido;Ana Quintela Moreira;1.300,00;10.179,60
+02/11/2025;Tarifa;Pacote De Servicos Mensal;-12,00;8.879,60
+28/10/2025;Crédito de rendimento;Rendimento Da Conta;53,78;8.891,60
+22/10/2025;Pix recebido;Norte Digital Ltda;1.670,00;8.837,82
+16/10/2025;Pagamento efetuado;Celular Linha Movel;-119,80;7.167,82
+16/10/2025;Pagamento efetuado;Internet Fibra Veloz;-119,90;7.287,62
+14/10/2025;Pagamento efetuado;Saneamento Do Vale;-145,60;7.407,52
+14/10/2025;Pagamento efetuado;Companhia De Energia Do Vale;-296,71;7.553,12
+12/10/2025;Pix enviado ;Bruno Quintela Moreira;-600,00;7.849,83
+10/10/2025;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;8.449,83
+07/10/2025;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;5.649,83
+07/10/2025;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;6.269,83
+06/10/2025;Pix recebido;Ana Quintela Moreira;1.300,00;8.169,83
+02/10/2025;Tarifa;Pacote De Servicos Mensal;-12,00;6.869,83
+28/09/2025;Crédito de rendimento;Rendimento Da Conta;37,54;6.881,83
+16/09/2025;Pagamento efetuado;Celular Linha Movel;-119,80;6.844,29
+16/09/2025;Pagamento efetuado;Internet Fibra Veloz;-119,90;6.964,09
+14/09/2025;Pagamento efetuado;Saneamento Do Vale;-102,25;7.083,99
+14/09/2025;Pagamento efetuado;Companhia De Energia Do Vale;-261,76;7.186,24
+12/09/2025;Pix enviado ;Bruno Quintela Moreira;-600,00;7.448,00
+11/09/2025;Pix recebido;Mare Alta Comunicacao Ltda;480,00;8.048,00
+10/09/2025;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;7.568,00
+07/09/2025;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;4.768,00
+07/09/2025;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;5.388,00
+06/09/2025;Pix recebido;Ana Quintela Moreira;1.300,00;7.288,00
+02/09/2025;Tarifa;Pacote De Servicos Mensal;-12,00;5.988,00

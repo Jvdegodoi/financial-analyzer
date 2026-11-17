@@ -1,0 +1,12 @@
+ Extrato Conta Corrente 
+Conta ;87654321
+Período ;28/12/2025 a 20/01/2026
+Saldo ;229,25
+
+Data Lançamento;Histórico;Descrição;Valor;Saldo
+20/01/2026;Compra no débito;Supermercado Boa Safra;-1.230,45;229,25
+12/01/2026;Pix recebido;Ana Quintela Moreira;310,00;1.459,70
+05/01/2026;Pix enviado ;Acai Lua Cheia;-49,90;1.149,70
+05/01/2026;Pix enviado ;Acai Lua Cheia;-49,90;1.199,60
+30/12/2025;Compra no débito;Posto Estrela Dalva;-250,50;1.249,50
+28/12/2025;Pix recebido;Bruno Quintela Moreira;1.500,00;1.500,00

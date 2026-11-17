@@ -1,0 +1,12 @@
+# Configuração do Streamlit para este projeto.
+#
+# O Streamlit lê este arquivo da pasta de onde ele sobe. O iniciar.bat e os
+# comandos do CLAUDE.md sobem a partir da pasta do projeto, e é aí que ele
+# vale. Subindo de outra pasta, ele não é lido.
+
+[server]
+# Só este computador abre o app. Sem esta linha o Streamlit escuta em todas
+# as interfaces, e qualquer aparelho da mesma rede abre o app, que não tem
+# senha. Decisão do dono em 12/11/2026; o acesso pelo celular é pendência à
+# parte, ainda não decidida.
+address = "localhost"

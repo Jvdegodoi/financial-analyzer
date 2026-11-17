@@ -1,0 +1,16 @@
+﻿EXTRATO DE CONTA CORRENTE C6 BANK
+
+Agência: 1 / Conta: 12345678
+Extrato gerado em 01/02/2026 - as 09:00:00
+
+Extrato de 29/12/2025 a 15/01/2026
+
+
+Data Lançamento,Data Contábil,Título,Descrição,Entrada(R$),Saída(R$),Saldo do Dia(R$)
+29/12/2025,29/12/2025,Pix recebido de LOJA DE ROUPAS AURORA,Pix recebido de LOJA DE ROUPAS AURORA,2000.00,0.00,2000.00
+30/12/2025,30/12/2025,"DEBITO DE CARTAO ",POSTO ESTRELA DALVA    BRASILIA      BRA,0.00,150.00,1800.50
+30/12/2025,30/12/2025,Pix enviado para Ana Quintela Moreira,TRANSF ENVIADA PIX,0.00,49.50,1800.50
+02/01/2026,02/01/2026,PGTO FAT CARTAO C6,Fatura de cartão,0.00,200.00,1480.50
+03/01/2026,02/01/2026,"DEBITO DE CARTAO ",MERCADO BOA SAFRA      BRASILIA      BRA,0.00,120.00,1480.50
+15/01/2026,15/01/2026,Pix recebido de Bruno Quintela Moreira,Pix recebido de Bruno Quintela Moreira,80.00,0.00,560.50
+15/01/2026,15/01/2026,SAQUE BANCO 24H,"  TERMINAL TECBAN                       ",0.00,1000.00,560.50

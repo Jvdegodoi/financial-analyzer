@@ -1,0 +1,10 @@
+ Extrato Conta Corrente 
+Conta ;87654321
+Período ;15/01/2026 a 15/02/2026
+Saldo ;980,00
+
+Data Lançamento;Histórico;Descrição;Valor;Saldo
+19/01/2026;Pix enviado ;Acai Lua Cheia;-10,00;794,10
+19/01/2026;Pix enviado ;Acai Lua Cheia;-10,00;784,10
+21/01/2026;Compra no débito;Supermercado Boa Safra;-1.230,45;-446,35
+02/02/2026;Pix enviado ;Drogaria Sao Judas;-37,80;-484,15

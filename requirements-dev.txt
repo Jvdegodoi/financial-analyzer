@@ -1,0 +1,16 @@
+# Dependências de desenvolvimento — NÃO entram em requirements.txt nem em
+# requirements.lock.txt. Isto é aplicação, não biblioteca: o ambiente que
+# roda o app não precisa de nada daqui.
+#
+# Consequência prática: depois de instalar isto no mesmo venv, `pip freeze`
+# passa a listar pytest e suas dependências transitivas (iniconfig, pluggy).
+# Regenerar o lock exige remover essas linhas, ou congelar em venv limpo.
+#
+#     .\venv\Scripts\python.exe -m pip install -r requirements-dev.txt
+#     .\venv\Scripts\python.exe -m pytest tests/
+#
+# Sempre com caminho explícito para tests/: até os scripts de teste antigos
+# saírem da raiz, `pytest` sem argumento os coleta e executa código de
+# módulo na importação.
+
+pytest>=8.0

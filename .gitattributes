@@ -1,0 +1,18 @@
+# As fixtures sintéticas reproduzem manhas de BYTE de cada banco — BOM do
+# C6, CRLF do C6, LF do Nubank e do Inter. Normalização de fim de linha
+# apaga exatamente o que elas existem para testar, e o teste
+# `test_c6_arquivo_tem_bom_e_crlf` falharia em qualquer máquina com
+# core.autocrlf diferente da desta. `-text` desliga toda conversão.
+tests/fixtures/sinteticos/*.csv -text
+
+# O conjunto de demonstração tem a mesma exigência, por outro motivo: um
+# teste regera o conjunto e compara BYTE A BYTE com o que está versionado. Os
+# extratos reproduzem o BOM e o CRLF do C6 e o LF do Nubank e do Inter, e o
+# conjunto.json sai do gerador em LF. Com core.autocrlf ligado e sem `-text`,
+# um clone no Windows devolveria tudo em CRLF e o teste falharia.
+demonstracao/extratos/*.csv -text
+demonstracao/conjunto.json -text
+
+# A lista de casos negativos (tests/fixtures/nao_membros.txt) saiu do git na
+# sessão 1a, 12/11/2026: é dado real e mora em nao_membros.local.txt, na raiz
+# do dado.

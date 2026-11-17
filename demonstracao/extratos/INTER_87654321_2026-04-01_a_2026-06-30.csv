@@ -1,0 +1,44 @@
+ Extrato Conta Corrente 
+Conta ;87654321
+Período ;01/04/2026 a 30/06/2026
+Saldo ;12.701,08
+
+Data Lançamento;Histórico;Descrição;Valor;Saldo
+28/06/2026;Crédito de rendimento;Rendimento Da Conta;33,84;12.701,08
+16/06/2026;Pagamento efetuado;Celular Linha Movel;-119,80;12.667,24
+16/06/2026;Pagamento efetuado;Internet Fibra Veloz;-119,90;12.787,04
+14/06/2026;Pagamento efetuado;Saneamento Do Vale;-122,51;12.906,94
+14/06/2026;Pagamento efetuado;Companhia De Energia Do Vale;-274,95;13.029,45
+12/06/2026;Pix enviado ;Bruno Quintela Moreira;-600,00;13.304,40
+10/06/2026;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;13.904,40
+07/06/2026;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;11.104,40
+07/06/2026;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;11.724,40
+06/06/2026;Pix recebido;Ana Quintela Moreira;1.300,00;13.624,40
+02/06/2026;Tarifa;Pacote De Servicos Mensal;-12,00;12.324,40
+28/05/2026;Crédito de rendimento;Rendimento Da Conta;40,14;12.336,40
+26/05/2026;Pix enviado ;Bruno Quintela Moreira;-300,00;12.296,26
+23/05/2026;Pix recebido;Norte Digital Ltda;470,00;12.596,26
+16/05/2026;Pagamento efetuado;Celular Linha Movel;-119,80;12.126,26
+16/05/2026;Pagamento efetuado;Internet Fibra Veloz;-119,90;12.246,06
+14/05/2026;Pagamento efetuado;Saneamento Do Vale;-96,10;12.365,96
+14/05/2026;Pagamento efetuado;Companhia De Energia Do Vale;-218,65;12.462,06
+12/05/2026;Pix enviado ;Bruno Quintela Moreira;-600,00;12.680,71
+10/05/2026;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;13.280,71
+07/05/2026;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;10.480,71
+07/05/2026;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;11.100,71
+06/05/2026;Pix recebido;Ana Quintela Moreira;1.300,00;13.000,71
+02/05/2026;Tarifa;Pacote De Servicos Mensal;-12,00;11.700,71
+28/04/2026;Crédito de rendimento;Rendimento Da Conta;41,91;11.712,71
+25/04/2026;Pix recebido;Atelie Tres Marias Ltda;2.160,00;11.670,80
+22/04/2026;Pix enviado ;Bruno Quintela Tecnologia Ltda;-2.000,00;9.510,80
+16/04/2026;Pagamento efetuado;Celular Linha Movel;-119,80;11.510,80
+16/04/2026;Pagamento efetuado;Internet Fibra Veloz;-119,90;11.630,60
+15/04/2026;Pix recebido;Mare Alta Comunicacao Ltda;480,00;11.750,50
+14/04/2026;Pagamento efetuado;Saneamento Do Vale;-87,39;11.270,50
+14/04/2026;Pagamento efetuado;Companhia De Energia Do Vale;-240,61;11.357,89
+12/04/2026;Pix enviado ;Bruno Quintela Moreira;-600,00;11.598,50
+10/04/2026;Pix recebido;Bruno Quintela Tecnologia Ltda;2.800,00;12.198,50
+07/04/2026;Pagamento efetuado;Condominio Jardim Das Acacias;-620,00;9.398,50
+07/04/2026;Pagamento efetuado;Aluguel Imobiliaria Horizonte;-1.900,00;10.018,50
+06/04/2026;Pix recebido;Ana Quintela Moreira;1.300,00;11.918,50
+02/04/2026;Tarifa;Pacote De Servicos Mensal;-12,00;10.618,50
